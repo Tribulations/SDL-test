@@ -1,2 +1,2 @@
 # SDL-test
-Simple SDL test 
+Simple SDL test where's there's a bug with returning a renderer. There is a error message in the console log. Function returns NULL?...
